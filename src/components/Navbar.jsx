@@ -15,7 +15,7 @@ const Navbar = () => {
           <a className="hover:text-blue-600 cursor-pointer" href="#Home">Home</a>
           <a className="hover:text-blue-600 cursor-pointer" href="#About">About</a>
           <a className="hover:text-blue-600 cursor-pointer" href="#Skills">Skill</a>
-          <a className="hover:text-blue-600 cursor-pointer"  href="prajwaltekale4@gmail.com">Mail</a>
+          <a className="hover:text-blue-600 cursor-pointer"  href="mailto:prajwaltekale4@gmail.com">Mail</a>
         </div>
 
         {/* Mobile Menu Button */}
@@ -33,7 +33,7 @@ const Navbar = () => {
           <a className="hover:text-blue-600 cursor-pointer" href="#Home" >Home</a><br />
           <a className="hover:text-blue-600 cursor-pointer" href="#About">About</a><br />
           <a className="hover:text-blue-600 cursor-pointer" href="#Skills">Skill</a><br />
-          <a className="hover:text-blue-600 cursor-pointer" href="prajwaltekale4@gmail.com">Mail</a><br />
+          <a className="hover:text-blue-600 cursor-pointer" href="mailto:prajwaltekale4@gmail.com">Mail</a><br />
         </div >
       )}
     </nav>
