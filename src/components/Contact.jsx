@@ -12,7 +12,7 @@ export default function Contact() {
 
             <div class="flex space-x-6">
               <a
-                href="https://www.linkedin.com/in/prajwal-tekale-455075332/"
+                href="#"
                 class="hover:text-white transition"
               >
                 <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -20,7 +20,7 @@ export default function Contact() {
                 </svg>
               </a>
 
-              <a href="#" class="hover:text-white transition">
+              <a href="https://www.linkedin.com/in/prajwal-tekale-455075332/" class="hover:text-white transition">
                 <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M4.98 3.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5ZM3 8.98h3.96V21H3V8.98ZM9.5 8.98H13v1.63h.06a4 4 0 0 1 3.6-2c3.85 0 4.56 2.54 4.56 5.85V21H17.2v-5.5c0-1.32 0-3-1.82-3s-2.1 1.43-2.1 2.9V21H9.5V8.98Z" />
                 </svg>
